@@ -452,9 +452,7 @@ mail.yahoo.com###app > div:first-child > div.p_f.T_0.R_0.B_0.L_0.q_Zjpytw.Z_7G9R
 !Github
 github.com##div.application-main:nth-child(5) > main > div.site-subnav.bg-white.site-subnav-sticky.js-sticky:first-child > nav.container-lg.mx-auto.p-responsive > div.d-flex.flex-wrap.flex-items-center.flex-justify-center.flex-md-justify-start.text-center.text-md-left > div.d-none.d-md-block.flex-auto.text-right:last-child > a.btn-mktg.px-3.py-2
 github.com##div.application-main:nth-child(5) > main > div.border-bottom.border-gray-light:last-child > div.container-xl.p-responsive > div.d-md-flex.flex-wrap.flex-lg-nowrap.gutter-md > div.col-md-12.col-lg-3.position-md-relative.pt-4.pt-lg-0.mt-lg-n6:first-child > div.border.rounded-1.box-shadow-medium.bg-white
-
-! Flaticon
-@@||img-sharesprites.flaticon.com^$image,domain=www.flaticon.com
+github.com##.mb-4.js-notice
 
 ! Feedly
 feedly.com###topHeaderBarFX
