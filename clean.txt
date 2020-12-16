@@ -1,5 +1,4 @@
 ! E-Shopping
-
 ! Amazon
 amazon.fr###rhf > div.rhf-frame
 
@@ -12,11 +11,24 @@ secure.fnac.com##.f-OTY-Block-cup-cont
 secure.fnac.com##.f-OTY-Block-cup-mentions
 secure.fnac.com##.f-OTY-TitlePub
 fnac.com##div.non-legacy:nth-child(5) > header.Header.Header--new.js-Header:first-child > div.Header__main.js-headerSearchView:last-child > div.Header__tabs-wrapper:last-child > div.Header__tabs.js-HeaderTabs > div.Header__tabs-specific-wrapper:last-child > div.Header__tabs-item.Header__tabs-item--account.js-HeaderTabAccount:nth-child(2) > a.Header__tabs-link.Header__tabs-link--account > div.Header__tabs-title:last-child > span.Header__tabs-secondline:last-child
+fnac.com##div.non-legacy:nth-child(5) > div.Main-marketingHeader:nth-child(6) > div.promo > ul.promo-List > li.promo-ListItem.promo-ListItem--flash:last-child
+fnac.com###footer > div.f-footer__places:last-child > a.f-footer__places-link.f-footer__payment-mean-link:nth-child(2)
 
 ! Darty
 darty.com###f_middle_ctn_bot
 darty.com###f_bottom_content
 darty.com###f_bottom
+
+! Micromania
+micromania.fr###footer-links-row > div.col-12.col-lg-3.pr-md-3.newsletter-social-media-wrapper:last-child
+
+! LDLC
+ldlc.com##div.wrap-h-content:nth-child(7) > div.h-content > aside:last-child > div.bloc:last-child
+ldlc.com##footer:nth-child(11) > div.top:first-child > div.container > div.row.f1:first-child > div.col-md-3.col-xs-6.fcontact:last-child > div.pic:first-child
+ldlc.com##footer:nth-child(11) > div.top:first-child > div.container > div.row.f1:first-child > div.col-md-3.col-xs-6.fcontact:last-child > div.mentions.text-center:last-child
+ldlc.com##footer:nth-child(13) > div.top:first-child > div.container > div.row.f1:first-child > div.col-md-3.col-xs-6.fcontact:last-child > div.pic:first-child
+ldlc.com##footer:nth-child(13) > div.top:first-child > div.container > div.row.f1:first-child > div.col-md-3.col-xs-6.fcontact:last-child > div.mentions.text-center:last-child
+ldlc.com##header:nth-child(3) > nav:nth-child(3) > div.container > div.cat-menu:first-child > ul > li:last-child
 
 ! Cdiscount
 cdiscount.com###pushBloc > div.pushIcon.jsPushIcon:first-child
@@ -66,11 +78,22 @@ gearbest.com###siteWrap > div.share_asideBox.js-shareAsideBox.on:last-child
 gearbest.com###js-navGoods > div.goodsNav_center.goodsPage-resp > div.goodsNav-btnWrap.js-buyBtnWrap:last-child > a.btn.big.btnPaypal.js-btnGoodsBuyWithPaypal.js-trackBtnPaypal:last-child
 gearbest.com###siteWrap > aside.siteAside.js-siteAside.siteAside-wide.active:nth-child(6)
 
+! Dealabs
+dealabs.com###footer > div.page-content.flex.flex--dir-col.flex--fromW4-dir-row.space--fromW3-h-3.space--fromW3-t-4.space--b-3.space--fromW3-b-4:nth-child(2) > div.width--all-12.width--fromW4-3.space--l-3.space--fromW3-l-0.space--fromW4-l-4.space--fromW3-t-1:last-child
+
 ! Rakuten
 fr.shopping.rakuten.com###jahiaContent > div.hp--megaban--bandeau.flex.justify-center.justify-between-l.items-center.w-100.pa-0.pv3-ns.ph4-ns.black:nth-child(20)
 fr.shopping.rakuten.com###jahiaContent > section.hp--bloc-flux-pub.pr3.pr4-ns.pv3.pv4-ns.flex:nth-child(23) > div.hp--categories--pub.flex.flex-column.pt4:last-child
 fr.shopping.rakuten.com###footer > div > footer.bg-near-white.undefined > div.flex.flex-wrap.pv3.bg-white:nth-child(3)
 fr.shopping.rakuten.com###footer > div > footer.bg-near-white.undefined > div.appsLinks_appsLinksContainer_2ts.null:nth-child(4)
+fr.shopping.rakuten.com###header > div > header.bg-white.z-2.relative.bb.b--moon-gray > div.mt2.mb2.z-10:last-child > nav.nav_nav_3QH.bg-white.flex.justify-around:first-child > div.navItem_root_1tk.helper_hide-BelowTablet.navItem_priceClub_17e:nth-child(4)
+fr.shopping.rakuten.com###jahiaContent > section.hp--seo.pt3.pt4-ns.pt5-l.toggle-box:nth-child(72)
+fr.shopping.rakuten.com###jahiaContent > p.f12.gray.bg-near-white.pa4:nth-child(70)
+fr.shopping.rakuten.com###jahiaContent > p.f12.gray.ph4:nth-child(71)
+fr.shopping.rakuten.com###footer > div > footer.bg-near-white.undefined > div.flex.pa3.bg-white.reinsurance_reinsuranceBlock_3Zg:first-child
+fr.shopping.rakuten.com###footer > div > footer.bg-near-white.undefined > div.flex.justify-between.items-center.pr4.pl4.bg-white.rakutenGroupLinks_container_2wf:nth-child(5) > a:first-child
+fr.shopping.rakuten.com###footer > div > footer.bg-near-white.undefined > div.flex.justify-between.items-center.pr4.pl4.bg-white.rakutenSdtLinks_container_3I3:last-child
+fr.shopping.rakuten.com###jahiaContent > div.evt--mentions.bg-near-white.pv4.ph4.mt4:nth-child(25)
 
 ! Veepee
 veepee.fr###root > div > div.sc-joaixS.kisKmO.modalHook:nth-child(2) > header.sc-gzcbGf.fOjoZn:first-child > div.sc-gkCpWe.osPas > div.sc-flUlJl.gUJytj:first-child > div.sc-iGkqGz.xDAMp:last-child > a.sc-jOFreG.sc-bTDODP.fdDpDr.kwsQta.sc-dsXyEt.lgEKKy.sc-hkePoP.PyaUH:first-child
@@ -104,6 +127,20 @@ techcrunch.com##.newsletter-signup-block
 presse-citron.net###mvp-side-wrap
 presse-citron.net###mvp_home_bottom_widget-2 > div.mvp-main-box
 presse-citron.net###mvp-content-wrap > div.mvp-post-soc-out.right.relative > div.mvp-post-soc-wrap.left.relative:first-child > ul.mvp-post-soc-list.left.relative
+
+! Gameblog
+gameblog.fr###bloc_plp_colD > aside.bloc300.home
+gameblog.fr###gb_nav_gameblogtv
+gameblog.fr###gb_home_encemoment
+gameblog.fr###gb_home_contest
+
+! Jeux Vidéo com
+jeuxvideo.com###jv-main-nav > div.sponsoTab.js-tracking-widget.filled:nth-child(3)
+jeuxvideo.com###jv-main-nav > div.jv-nav-container.jv-nav-primary:first-child > ul.jv-nav-lvl1 > li.jv-nav-lvl1-item:nth-child(3)
+jeuxvideo.com###jv-main-nav > div.jv-nav-container.jv-nav-primary:first-child > ul.jv-nav-lvl1 > li.jv-nav-lvl1-item.store:last-child
+jeuxvideo.com###jv-page > div.layout__row.layout__contentTop:first-child > div.context-top-wrapper.widget-live-event-wrapper
+jeuxvideo.com###jv-page > div.layout__row.layout__content.layout__row--gutter:nth-child(2) > div.quick-access-bar:first-child > a.link.important:nth-child(2)
+jeuxvideo.com###jv-footer > aside.video-footer-container:first-child
 
 ! Lemonde
 lemonde.fr###Header > header.Header > div.wrapper > div.right:last-child > div.Header__actions.Header__actions--desktop.old__header-actions-right > a.btn.btn--premium:last-child
@@ -140,6 +177,42 @@ lesechos.fr###app > div.sc-AxjAm.sc-38v382-2.hbDEBg:last-child > div.sc-AxjAm.sc
 ! Reuters
 fr.reuters.com###__next > div > div.TwoColumnsLayout-footer-ErFTG:nth-child(5) > footer.Footer-container-2rD-1 > div.Footer-inner-3zvCM > div.SocialTools__container___3rfoZ:nth-child(2)
 
+! Art Technica
+arstechnica.com##div.site-wrapper:nth-child(3) > header.site-header:nth-child(2) > div.header-right:last-child > a.header-highlight-link:nth-child(2)
+
+! Kotaku
+kotaku.com##div:nth-child(3) > div.sc-157agsr-0.krcHQb:nth-child(7) > aside.ynugv2-2.fpPzXA:last-child
+
+! Engadget
+engadget.com###module-latest > div:first-child > div.rwd-outer-container.W\(100vw\).D\(f\).Jc\(sa\) > div.rwd-inner-container.W\(1235px\).W\(980px\)--lg.W\(640px\)--md.W\(100\%\)--sm.Mx\(20px\)--sm.My\(40px\) > div.D\(f\).Ai\(st\).Mt\(5px\).Mt\(0\)--md.Pos\(r\).Ai\(fs\)\!.Mx\(-20px\)--sm:nth-child(2) > div.W\(300px\).Miw\(300px\).Mstart\(60px\).D\(n\)--md.T\(100px\):last-child
+engadget.com##div.o-h:nth-child(2) > div.i-nav_drawer_slide\@tp- > div.i-nav_drawer_slide\@tp-__panel.relative.z-0:last-child > main.th-base.o-h:nth-child(2) > div.container\@tp\+.pt-40\@tp\+:nth-child(5) > div.grid.flex > div.grid__cell.col-3-of-15.hide\@tl-.flex.pb-80:first-child
+
+! Tech Radar
+global.techradar.com##nav.primary-nav:nth-child(5) > div.wrapper:last-child > div.menuitems.container.full > div.nav-sub-set-container:last-child
+global.techradar.com##nav.primary-nav:nth-child(5) > div.burgerbar.subscribe-region-disabled:nth-child(3) > div.container.full.burgerbar-small > div.buttons-social.masthead-item:nth-child(10)
+
+! The Verge
+theverge.com###content > article.l-segment.l-main-content > div.l-sidebar-fixed.l-segment.l-article-body-segment:nth-child(3) > div.l-col__sidebar:last-child
+theverge.com###content > article.l-segment.l-main-content > div.l-segment:nth-child(2) > div.c-entry-hero.c-entry-hero--default:first-child > div.c-entry-hero__header-wrap:nth-child(2) > div.c-entry-hero__meta:last-child
+
+! Wired
+wired.com###app-root > div.page.page-theme-standard.page--article > div.persistent-top:nth-child(5) > header.standard-navigation.standard-navigation--decoration-border-thin.standard-navigation--palette-standard.standard-navigation--logo-align-left.standard-navigation--mobile-logo-align-undefined.standard-navigation--mobile-option-cm.site-navigation:first-child > div.standard-navigation__section--utility-links:nth-child(4) > div.consumer-marketing-unit.consumer-marketing-unit--nav-cta:nth-child(4)
+
+! Mashable
+mashable.com###after-page-recirc
+mashable.com###main > div.video-band:nth-child(2) > div.page-container
+
+! Tech Crunch
+techcrunch.com###root > div > div.container--tc-magazine > header.site-navigation:nth-child(4) > div.desktop-nav > div.desktop-nav__login:nth-child(2) > div.navigation__login-links > div.navigation__login-links__subscribe:last-child
+techcrunch.com###tc-main-content > div.content-wrap:first-child > div.content > div.feature-island:last-child > div.mini-view:nth-child(2) > article.mini-view__item.mini-item--unread:first-child > div.premium-content__label:first-child
+
+! Linux Tricks
+linuxtricks.fr###visit-counter
+
+! DSFC
+dsfc.net###r_sidebar
+dsfc.net###l_sidebar
+
 ! Korben
 korben.info##div.app-container:nth-child(3) > section.edito:nth-child(2)
 korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > a.widget-action.widget-sign-up.sidebar-app-aside:nth-child(3)
@@ -152,6 +225,17 @@ korben.info##div.app-container:nth-child(3) > button.edito-close:first-child
 korben.info###TolbcoH0-976149481
 korben.info##section.app-extra.widget-discover:nth-child(4)
 korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > div.app-aside-delimiter.show-for-large:nth-child(8)
+korben.info##div.app-container:nth-child(3) > main.app-main:nth-child(3) > article.post-*.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-securite.tag-air-gapped.tag-securite.tag-wifi:nth-child(8) > footer.entry-footer:last-child
+korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > div.app-aside-delimiter.show-for-large:nth-child(8)
+korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > a.widget-action.widget-rss.sidebar-app-aside:nth-child(5)
+
+! Hacking Articles
+hackingarticles.in###widget_sp_image-15
+hackingarticles.in###widget_sp_image-13
+hackingarticles.in###widget_sp_image-9
+hackingarticles.in###widget_sp_image-16
+hackingarticles.in###widget_sp_image-14
+hackingarticles.in###widget_sp_image-10
 
 ! MSN News
 msn.com###filmstripouter > section.filmstrip.light > div.scrollouter > div.scrollregion:nth-child(2) > ul
@@ -194,10 +278,38 @@ thehackernews.com###follow-us
 blog.scaleway.com##div.site-wrapper:first-child > div.floating-header.floating-active:nth-child(4) > div.floating-header-share:nth-child(4)
 blog.scaleway.com##div.site-wrapper:first-child > header.site-header.outer:first-child > div.inner > nav.site-nav > div.site-nav-right:last-child
 
-! Sciècle Digital
+! Blog Protonmail
+protonmail.com###header > div.top.hidden-sm.hidden-xs:first-child
+protonmail.com##div.free-email-section:nth-child(4)
+
+! Blog Cloudflare
+blog.cloudflare.com##div.site-wrapper:first-child > footer.pt4.pb4.pl1.pr1.main-footer:last-child > div.mw8.center.ph3:last-child > div.flex.flex-row.flex-wrap.justify-between.pt4 > div.flex.flex-row.items-start.w-100.w-50-l.pb4.pb0-l:first-child
+
+! Blog OVH
+ovh.com###archives-2
+ovh.com###tag_cloud-2
+
+! L1fo
+l1fo.tech###sib_subscribe_form-2
+l1fo.tech###tribe-events-list-widget-2
+
+! Je suis un dev
+jesuisundev.com###bwp-post-* > div.bwp-post-content:last-child > p.disclaimer:first-child
+jesuisundev.com###bwp-header > div.bwp-header-logo-row:first-child > div.container > div.bwp-header-logo-row-container.clearfix > a:nth-child(9)
+jesuisundev.com###bwp-scroll-top
+
+! Siècle Digital
 siecledigital.fr###menu-menu-1 > li.sponso:nth-child(5)
 siecledigital.fr###sidebar > div.theiaStickySidebar > ul > li.grid-box.col-3:nth-child(3)
 siecledigital.fr##div.wrapper:nth-child(3) > div.grid-wrap.page-wrap:nth-child(3) > div.grid-wrap.full-grid:nth-child(4)
+
+! Usine Digital
+usine-digitale.fr##div.jqMainContent.contenuPrincipal.contenuPrincipal--pad20Mob.home:nth-child(7) > div.sidebar:last-child > div.isNoTabAndLess:last-child > div.pushSidebar1:nth-child(3)
+usine-digitale.fr##div.jqMainContent.contenuPrincipal.contenuPrincipal--pad20Mob.home:nth-child(7) > div.sidebar:last-child > div.isNoTabAndLess:last-child > div.blocType1:nth-child(6)
+usine-digitale.fr###popinInscriptNL
+usine-digitale.fr###jqHeader > div.headerContent__mainMenu.mainMenu.jqMenu:last-child > div.mainMenu__tools:nth-child(3) > a.btnTools.btnTools--news:last-child
+usine-digitale.fr##div.jqMainContent.contenuPrincipal.contenuPrincipal--pad20Mob.home:nth-child(7) > div.sidebar:last-child > div.isNoTabAndLess:nth-child(2)
+usine-digitale.fr##div.jqMainContent.contenuPrincipal.contenuPrincipal--pad20Mob.pageFormLB:nth-child(10) > div.sidebar:nth-child(4) > div.isNoTabAndLess:nth-child(2)
 
 ! Sciences et Avenir
 sciencesetavenir.fr##div.container.rbrq-hightech-a-hover:nth-child(7) > main.container-in.container-main.container-main-article.container-in-border-top.text-selection-hightech:first-child > section.content:last-child > div.bloc-relative:last-child > div.content-right:last-child > div.bloc.abo:nth-child(5)
@@ -210,6 +322,87 @@ computingforgeeks.com###div-gpt-ad-computingforgeeks_com-box*
 computingforgeeks.com###ezmobfooter
 computingforgeeks.com###td-outer-wrap > div.tdc-header-wrap:first-child > div.td-header-wrap.td-header-style-1 > div.td-header-top-menu-full.td-container-wrap:first-child > div.td-container.td-header-row.td-header-top-menu > div.top-bar-style-1:first-child > div.td-header-sp-top-widget:last-child
 computingforgeeks.com###menu-main-1 > li.best-courses-link.menu-item.menu-item-type-taxonomy.menu-item-object-category.td-menu-item.td-normal-menu.menu-item-80287:last-child
+
+! Republicain-Lorrain
+republicain-lorrain.fr###header > div.wrapperHeader:last-child > div.headerTopRight.noMobile.noPrint:nth-child(3) > a.bt_special:first-child
+republicain-lorrain.fr###header > div.wrapperHeader:last-child > div.headerTopRight.noMobile.noPrint:nth-child(3) > a.nav_shop.icon_shopping-bag.before.noMobile:nth-child(2)
+republicain-lorrain.fr###abo
+republicain-lorrain.fr###wrapper > section.section.S1:nth-child(4) > div.constrain > div.col_sticky:last-child > div:last-child
+republicain-lorrain.fr###liseuse
+republicain-lorrain.fr###wrapper > section.section.S_main:nth-child(2) > div.constrain:nth-child(3) > article > div.col_sticky.noPrint:last-child
+
+! France Soir
+francesoir.fr###block-block-50
+francesoir.fr###block-block-31 > div:nth-child(2) > div > div > div.tgleft:last-child
+francesoir.fr###content > div.bootstrap-twocol-stacked:nth-child(6) > div.row:nth-child(2) > div.row-item:first-child > div.panel-panel.left.col-xs-12.col-sm-8.col-md-8.col-lg-8 > div.panel-pane.pane-custom.pane-6:nth-child(9)
+francesoir.fr###content > div.bootstrap-twocol-stacked:nth-child(6) > div.row:nth-child(2) > div.row-item:first-child > div.panel-panel.left.col-xs-12.col-sm-8.col-md-8.col-lg-8 > div.panel-pane.pane-custom.pane-9:last-child > p > a > img.field-name-field-images
+francesoir.fr###content > div.bootstrap-twocol-stacked:nth-child(6) > div.row:nth-child(2) > div.row-item:last-child > div.panel-panel.right.col-sm-4.col-md-4.col-lg-4 > div.panel-pane.pane-custom.pane-10:first-child
+francesoir.fr###block-menu-block-2 > div.menu-block-wrapper.menu-block-2.menu-name-main-menu.parent-mlid-0.menu-level-1 > ul.menu > li.menu__item.is-leaf.first.leaf.menu-mlid-1146:first-child
+
+! Ouest France
+ouest-france.fr###header_sp > div.bottom-menu:first-child > div.su-container > div.right-components:last-child
+ouest-france.fr###header_sp > div.bottom-menu:first-child > div.su-container > div.header-evenement:first-child > nav.bottom-nav-menu:last-child > ul.menu-liste > li.item-1.item.of-on-over.of-delay.premium-enabled:nth-child(3)
+ouest-france.fr###nav_top > div.nav-top.su-fixed:first-child > div.su-container > div.nav-user:last-child > div.bloc-abonnement.visible-fixed-mobile.visible-fixed-desktop:first-child
+ouest-france.fr###bloc_3quarts_1__parentOf__abo_journal
+ouest-france.fr###detail-article-content > aside.contenu-secondaire.rs_skip:nth-child(2) > div.su-visible-xl.su-margin-bottom-xl.su-clearfix:nth-child(3)
+ouest-france.fr###article-detail > div.su-article > div.barre-infos.rs_skip.rs_preserve.su-fixed:nth-child(17) > div.su-container > button.action.meta-readlater.su-hidden-xs.su-hidden-sm.su-hidden-md:last-child
+ouest-france.fr###footer_bottom > p.lien-applications.su-margin-bottom-l:first-child
+ouest-france.fr##footer.footer-new.footer:nth-child(10) > div.footer-haut:first-child
+ouest-france.fr###nav_middle > div.su-row.middle-nav-menu > div.su-row.su-col-lg-9.su-col-xl-8.nav:last-child
+ouest-france.fr###bloc_1quart_pub_1
+
+! L'express
+lexpress.fr##div.bottom-bar:nth-child(12)
+lexpress.fr###header > div.header__container:last-child > div.header__main:first-child > div.header__actions:last-child > a.header__action.header__nsl.header__action--icon:nth-child(2)
+lexpress.fr###header > div.header__container:last-child > div.header__main:first-child > div.subheader__link.hide--scrolled:nth-child(3) > a.subheader__hebdo
+lexpress.fr###page > article.content.article.groupement-content:nth-child(6) > section.aside.groupement_aside.aside_right:last-child
+
+! L'équipe
+lequipe.fr###header > div.Header__content > div.Header__right:last-child
+lequipe.fr###outer-edito-content > div.Live.container__content.layout.js-container-content > div.Caption.Live__leading:nth-child(2)
+lequipe.fr###menu > div > ul.Menu__section:nth-child(3)
+lequipe.fr###menu > div > ul.Menu__section:nth-child(4)
+lepoint.fr###eltConnectHtml > li.pre-header-li.last.bg-yellow:last-child
+lepoint.fr###header-red > nav.header-red-nav > div.lepoint-cover:nth-child(4)
+lepoint.fr###header-red > nav.header-red-nav > ul.header-red-ul:last-child > li.header-red-li:last-child
+lepoint.fr###enventeactuellement
+lepoint.fr###lp-cluster-jeux-concours
+lepoint.fr###lp-twitter-home
+lepoint.fr###content > article:nth-child(3) > header:first-child > div.list-view:last-child
+lepoint.fr###section-commentaires
+
+! L'équipe
+lequipe.fr###header > div.Header__content > div.Header__right:last-child
+lequipe.fr###outer-edito-content > div.Live.container__content.layout.js-container-content > div.Caption.Live__leading:nth-child(2)
+lequipe.fr###menu > div > ul.Menu__section:nth-child(3)
+lequipe.fr###menu > div > ul.Menu__section:nth-child(4)
+lepoint.fr###eltConnectHtml > li.pre-header-li.last.bg-yellow:last-child
+lepoint.fr###header-red > nav.header-red-nav > div.lepoint-cover:nth-child(4)
+lepoint.fr###header-red > nav.header-red-nav > ul.header-red-ul:last-child > li.header-red-li:last-child
+lepoint.fr###enventeactuellement
+lepoint.fr###lp-cluster-jeux-concours
+lepoint.fr###lp-twitter-home
+lepoint.fr###content > article:nth-child(3) > header:first-child > div.list-view:last-child
+lepoint.fr###section-commentaires
+
+! L'étudiant
+letudiant.fr###pandoraFooter > footer.tw-bg-black.tw-px-4.md\:tw-px-30px.lg\:tw-px-56px.tw-py-32px.tw-text-white > div.tw-main-container > section.md\:tw-grid.md\:tw-grid-cols-3.md\:tw-gap-4:first-child
+
+! Elle
+elle.fr###Elle_footer > div.container > div.row > div.col-md-4.newsletter:nth-child(5)
+
+! LCI
+lci.fr###hdr-vertical-blk > div.hdr-vertical-blk__button-video-container:nth-child(3)
+
+! 20 Minutes
+20minutes.fr##div.header:nth-child(5) > div.header-layout.wrap:first-child > div.header-before.ajax:nth-child(2)
+20minutes.fr##div.header:nth-child(5) > div.header-layout.wrap:first-child > div.header-body:last-child > ul.header-icons:first-child > li:nth-child(2)
+20minutes.fr###main-content > aside.lt-endor-aside:last-child
+20minutes.fr###page-content > div.pageover.mb2:nth-child(7)
+
+! Libération
+liberation.fr##div:nth-child(11) > div.header-fix-nav:first-child > nav.main-nav:last-child > div.right-nav.v-centerer:nth-child(3) > a.button.v-centered.js-nav-live-button:nth-child(4)
+liberation.fr##div:nth-child(11) > div.header-fix-nav:first-child > nav.main-nav:last-child > div.right-nav.v-centerer:nth-child(3) > a.button.v-centered:nth-child(5)
 
 ! Social Networks
 ! Reddit
@@ -236,6 +429,8 @@ deezer.com###page_sidebar > div.sidebar-header:first-child > div.conversion-bann
 
 ! Youtube
 youtube.com###dialog
+youtube.com###links-holder
+youtube.com###chat
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(6)
 youtube.com###sections > ytd-guide-signin-promo-renderer.style-scope.ytd-guide-renderer:nth-child(3)
 
@@ -270,6 +465,11 @@ deepl.com##header.dl_header.dl_header--sticky:first-child > nav.dl_header_menu_v
 deepl.com###lmt_pro_ad_container
 deepl.com###lmt_quotes_article
 deepl.com##footer.dl_footer.dl_top_element--wide:nth-child(17) > div.dl_footer__container:last-child > div.dl_footer__socials:last-child
+
+! StackShare
+stackshare.io###nav_menu > li.hide-4:nth-child(6)
+stackshare.io###Footer-react-component-255ddb9d-25cd-45f1-bb91-55e738594f10 > footer.css-ts0y2j > div.css-cs546h > div.css-1fco1ts > div.css-11a2nsi:nth-child(3)
+stackshare.io##div.uv-icon.uv-bottom-right:last-child
 
 ! Random
 ! Ionos
