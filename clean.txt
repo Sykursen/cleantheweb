@@ -60,6 +60,7 @@ korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > secti
 korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > a.widget-action.widget-sign-up.sidebar-app-aside-single:nth-child(3)
 korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > section.widget-dtc.show-for-large:nth-child(8)
 korben.info##footer.app-footer:nth-child(6) > div.app-footer-container:first-child
+korben.info##div.app-container:nth-child(3) > button.edito-close:first-child
 
 ! MSN News
 msn.com###filmstripouter > section.filmstrip.light > div.scrollouter > div.scrollregion:nth-child(2) > ul
