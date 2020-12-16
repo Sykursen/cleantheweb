@@ -28,6 +28,20 @@ cdiscount.com###asyncFooter > div.ftZn3:last-child
 cdiscount.com###hLayers > div.hCdav:first-child
 cdiscount.com###paContent > ul.imgList1:first-child > li > a
 
+! Carrefour
+carrefour.com###block-menuprincipal > section.menu-header > div.menu-container:first-child > nav.navbar:nth-child(2) > div.navbar-left:first-child > div.finance-summary.revealed
+carrefour.fr###data-information
+carrefour.fr###main > div.blocks:first-child > div.sticky-help:last-child
+carrefour.fr##div.alcohol-banner:nth-child(8)
+carrefour.fr###colophon > div.colophon__container:first-child
+carrefour.fr###main > div.blocks:first-child > section.mini-push:nth-child(10)
+carrefour.fr###data-quick-access-bar
+
+! Leclerc
+e-leclerc.com###main-header-v2 > div.header-relative:first-child > div.subnav:nth-child(4) > a.subnav-item:nth-child(2)
+e-leclerc.com###\35 dd7c35d-be12-4f93-b3dd-02e521c88a91
+e-leclerc.com###main-header-v2 > div.header-relative:first-child > div.subnav:nth-child(4) > a.subnav-item.ng-scope:nth-child(3)
+
 ! Aliexpress
 fr.aliexpress.com##.multi-sidebar-tab
 
@@ -51,6 +65,36 @@ gearbest.com###js-siteFooter > div.footerHotkey:first-child
 gearbest.com###siteWrap > div.share_asideBox.js-shareAsideBox.on:last-child
 gearbest.com###js-navGoods > div.goodsNav_center.goodsPage-resp > div.goodsNav-btnWrap.js-buyBtnWrap:last-child > a.btn.big.btnPaypal.js-btnGoodsBuyWithPaypal.js-trackBtnPaypal:last-child
 gearbest.com###siteWrap > aside.siteAside.js-siteAside.siteAside-wide.active:nth-child(6)
+
+! Rakuten
+fr.shopping.rakuten.com###jahiaContent > div.hp--megaban--bandeau.flex.justify-center.justify-between-l.items-center.w-100.pa-0.pv3-ns.ph4-ns.black:nth-child(20)
+fr.shopping.rakuten.com###jahiaContent > section.hp--bloc-flux-pub.pr3.pr4-ns.pv3.pv4-ns.flex:nth-child(23) > div.hp--categories--pub.flex.flex-column.pt4:last-child
+fr.shopping.rakuten.com###footer > div > footer.bg-near-white.undefined > div.flex.flex-wrap.pv3.bg-white:nth-child(3)
+fr.shopping.rakuten.com###footer > div > footer.bg-near-white.undefined > div.appsLinks_appsLinksContainer_2ts.null:nth-child(4)
+
+! Veepee
+veepee.fr###root > div > div.sc-joaixS.kisKmO.modalHook:nth-child(2) > header.sc-gzcbGf.fOjoZn:first-child > div.sc-gkCpWe.osPas > div.sc-flUlJl.gUJytj:first-child > div.sc-iGkqGz.xDAMp:last-child > a.sc-jOFreG.sc-bTDODP.fdDpDr.kwsQta.sc-dsXyEt.lgEKKy.sc-hkePoP.PyaUH:first-child
+veepee.fr###root > div > div.sc-joaixS.kisKmO.modalHook:nth-child(2) > div.sc-bZerux.cweilX:nth-child(3) > div > div:nth-child(2) > div > div > div:nth-child(2) > div.sc-clYilz.cJQXtf.backToTop-enter-done:last-child
+veepee.fr###root > div > div.sc-joaixS.kisKmO.modalHook:nth-child(2) > header.sc-gzcbGf.kURtZa:first-child > div.sc-gkCpWe.osPas > div.sc-flUlJl.jPCWkj:first-child > div.sc-iGkqGz.xDAMp:last-child > a.sc-jOFreG.sc-bTDODP.fdDpDr.kwsQta.sc-dsXyEt.lgEKKy.sc-hkePoP.bxKefG:first-child
+veepee.fr###root > div > div.sc-joaixS.kisKmO.modalHook:nth-child(2) > header.sc-gzcbGf.kURtZa:first-child > div.sc-gkCpWe.osPas > div.sc-flUlJl.jPCWkj:first-child > div.sc-iGkqGz.xDAMp:last-child > a.sc-jOFreG.sc-bTDODP.fdDpDr.kwsQta.sc-dsXyEt.lgEKKy.sc-hkePoP.bxKefG:nth-child(2)
+veepee.fr###root > div > div.sc-joaixS.kisKmO.modalHook:nth-child(2) > header.sc-gzcbGf.kURtZa:first-child > div.sc-gkCpWe.osPas > div.sc-flUlJl.jPCWkj:first-child > div.sc-eXuzZk.kdIEhb:first-child > div.sc-fXgAFM.cLhSYu:nth-child(2) > div.sc-eEVlDD.jcqMVI.header--menu-enter-done:last-child > ul.sc-fmdMXc.bPGGNP:nth-child(5) > li.sc-ljslrt.dDLEHu:last-child
+veepee.fr###root > div > div.sc-joaixS.kisKmO.modalHook:nth-child(2) > header.sc-gzcbGf.kURtZa:first-child > div.sc-gkCpWe.osPas > div.sc-flUlJl.jPCWkj:first-child > div.sc-eXuzZk.kdIEhb:first-child > div.sc-fXgAFM.cLhSYu:nth-child(2) > div.sc-eEVlDD.jcqMVI.header--menu-enter-done:last-child > ul.sc-fmdMXc.bPGGNP:nth-child(5) > li.sc-ljslrt.dDLEHu:first-child
+
+! La Redoute
+laredoute.fr###menuMainList > li.menu_item.highlightheavy:nth-child(9)
+laredoute.fr###header > div.lr-container.header-container > div.flex.flex-middle.flex-fit > div.header-icon:nth-child(2) > div.header-icon-container.header-icon-container-txt.hidden-xs:first-child
+laredoute.fr###header > div.lr-container.header-container > div.flex.flex-middle.flex-fit > div.header-icon:nth-child(2) > div.header-icon-container:nth-child(2)
+laredoute.fr###backToTop
+laredoute.fr###panel1 > div.horizontal:first-child > div.html:last-child > div.lr-container.contact-container:last-child > div.row > div.col-xs-12.col-sm-5.col-md-5:last-child
+laredoute.fr###footer > div.reinsurance-container:nth-child(4) > div.lr-container.reinsurance.text-center.cfao-hide.border-bottom > div.flex.footer-reinsurance-row:last-child > div.footer-col-4.flex-col.flex-col-xs-12.flex-col-sm-2.flex-offset-sm-1:last-child
+laredoute.fr###newsletterContainer
+laredoute.fr###panel1 > div.horizontal:first-child > div.html:last-child > div.divRPremium.icon.icon-footer-rpremium.footer-rpremium.icon-block-left:nth-child(3)
+laredoute.fr###paymentCardFooterArea
+laredoute.fr###fevadArea
+
+! ShowRoom Privé
+showroomprive.com###ctl00 > footer.footer_inscription:nth-child(10) > div.l-footer-reassurance:nth-child(2)
+showroomprive.com###ctl00 > footer.footer_inscription:nth-child(10) > div.footer_inscription__reassurance:first-child > div.l-wrapper > div.footer_inscription__reassurance-item:nth-child(4)
 
 ! Press & Blogs
 ! https://techcrunch.com
@@ -107,6 +151,7 @@ korben.info##footer.app-footer:nth-child(6) > div.app-footer-container:first-chi
 korben.info##div.app-container:nth-child(3) > button.edito-close:first-child
 korben.info###TolbcoH0-976149481
 korben.info##section.app-extra.widget-discover:nth-child(4)
+korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > div.app-aside-delimiter.show-for-large:nth-child(8)
 
 ! MSN News
 msn.com###filmstripouter > section.filmstrip.light > div.scrollouter > div.scrollregion:nth-child(2) > ul
@@ -154,6 +199,18 @@ siecledigital.fr###menu-menu-1 > li.sponso:nth-child(5)
 siecledigital.fr###sidebar > div.theiaStickySidebar > ul > li.grid-box.col-3:nth-child(3)
 siecledigital.fr##div.wrapper:nth-child(3) > div.grid-wrap.page-wrap:nth-child(3) > div.grid-wrap.full-grid:nth-child(4)
 
+! Sciences et Avenir
+sciencesetavenir.fr##div.container.rbrq-hightech-a-hover:nth-child(7) > main.container-in.container-main.container-main-article.container-in-border-top.text-selection-hightech:first-child > section.content:last-child > div.bloc-relative:last-child > div.content-right:last-child > div.bloc.abo:nth-child(5)
+
+! Computing for Geek
+computingforgeeks.com###td-outer-wrap > div.tdc-header-wrap:first-child > div.td-header-wrap.td-header-style-1 > div.td-header-top-menu-full.td-container-wrap:first-child > div.td-container.td-header-row.td-header-top-menu > div.top-bar-style-1:first-child > div.td-header-sp-top-widget:last-child
+computingforgeeks.com###td-outer-wrap > div.td-main-content-wrap.td-main-page-wrap.td-container-wrap:nth-child(2) > span.ezoic-ad.box-2.adtester-container.adtester-container-137:nth-child(2)
+computingforgeeks.com###td-outer-wra
+computingforgeeks.com###div-gpt-ad-computingforgeeks_com-box*
+computingforgeeks.com###ezmobfooter
+computingforgeeks.com###td-outer-wrap > div.tdc-header-wrap:first-child > div.td-header-wrap.td-header-style-1 > div.td-header-top-menu-full.td-container-wrap:first-child > div.td-container.td-header-row.td-header-top-menu > div.top-bar-style-1:first-child > div.td-header-sp-top-widget:last-child
+computingforgeeks.com###menu-main-1 > li.best-courses-link.menu-item.menu-item-type-taxonomy.menu-item-object-category.td-menu-item.td-normal-menu.menu-item-80287:last-child
+
 ! Social Networks
 ! Reddit
 reddit.com###SHORTCUT_FOCUSABLE_DIV > div:nth-child(4) > div._1nxEQl5D2Bx2jxDILRHemb > div > div.qYj03fU5CXf5t2Fc5iSvg.ListingLayout-outerContainer > div._3ozFtOe6WpJEMUtxDOIvtU:last-child > div._1vyLCp-v-tE5QvZovwrASa:last-child > div._1OVBBWLtHoSPfGCRaPzpTf._3nSp9cdBpqL13CqjdMr2L_:first-child > div._3VqiDbufgl9_EiV_tk9L6u:first-child
@@ -182,10 +239,20 @@ youtube.com###dialog
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(6)
 youtube.com###sections > ytd-guide-signin-promo-renderer.style-scope.ytd-guide-renderer:nth-child(3)
 
+! Netflix
+netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.nf-kb-nav-wrapper > div.sizing-wrapper > div.nfp.AkiraPlayer:last-child > div.nfp.nf-player-container.notranslate.active.NFPlayer.nextEpisodeSeamless > div.PlayerControlsNeo__layout.PlayerControlsNeo__layout--active:last-child > div.PlayerControlsNeo__all-controls > div.PlayerControlsNeo__core-controls:last-child > div.PlayerControlsNeo__bottom-controls:last-child > div.PlayerControlsNeo__button-control-row:last-child > div.touchable.ReportAProblemPopupContainer.PlayerControls--control-element.nfp-popup-control:nth-child(6)
+netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.has-billboard.menu-navigation > div.secondary-navigation:last-child > div.nav-element:nth-child(5)
+netflix.com###appMountPoint > div.netflix-sans-font-loaded > div > div:first-child > div.bd.dark-background:first-child > div.pinning-header:first-child > div.pinning-header-container > div.main-header.has-billboard.menu-navigation > div.secondary-navigation:last-child > div.nav-element:nth-child(4)
+
 ! Others services
 ! Qwant
 qwant.com###c_12 > div.home__snippet__extension
 qwant.com###a_67
+
+! Yahoo
+fr.yahoo.com###header-notification-menu
+fr.yahoo.com###dialogue-wrapper > div.Pos\(a\).End\(0\).B\(0\) > div.wafer-tooltip.has-tooltip-click.wafer-tooltip-done:first-child > div.wafer-tooltip-wrapper:last-child > div.header-dialogue-container.D\(f\).Pos\(a\).Bgc\(\#fff\).Bdrs\(8px\).Bxsh\(\$featureCueShadow\).End\(70px\)\:\:b.End\(0\).T\(0px\)
+mail.yahoo.com###app > div:first-child > div.p_f.T_0.R_0.B_0.L_0.q_Zjpytw.Z_7G9R:first-child
 
 !Github
 github.com##div.application-main:nth-child(5) > main > div.site-subnav.bg-white.site-subnav-sticky.js-sticky:first-child > nav.container-lg.mx-auto.p-responsive > div.d-flex.flex-wrap.flex-items-center.flex-justify-center.flex-md-justify-start.text-center.text-md-left > div.d-none.d-md-block.flex-auto.text-right:last-child > a.btn-mktg.px-3.py-2
@@ -196,3 +263,24 @@ github.com##div.application-main:nth-child(5) > main > div.border-bottom.border-
 
 ! Feedly
 feedly.com###topHeaderBarFX
+feedly.com###feedlyPageFX > div.page-account > header.header.row:first-child > div.col-xs-6.col-md-6.p-t-2.right-col.extra:last-child > div.actions-container > button.secondary:first-child
+
+! Deepl
+deepl.com##header.dl_header.dl_header--sticky:first-child > nav.dl_header_menu_v2.dl_top_element--wide > div.dl_header_menu_v2__items:last-child > div.dl_header_menu_v2__buttons:last-child > a.dl_headerMenu__appButton:first-child
+deepl.com###lmt_pro_ad_container
+deepl.com###lmt_quotes_article
+deepl.com##footer.dl_footer.dl_top_element--wide:nth-child(17) > div.dl_footer__container:last-child > div.dl_footer__socials:last-child
+
+! Random
+! Ionos
+ionos.fr###content > div.offer-banner-container.top:nth-child(2)
+ionos.fr###NoButtonIdGiven
+ionos.fr###content > div:nth-child(15)
+ionos.fr###InviteImageRealPerson
+ionos.fr###footer-container > div.container > div.row > div.col-12:nth-child(3) > div.row > div.col-10.alpha-1.col-md-5.alpha-md-1.omega-md-0.alpha-lg-0.omega-lg-0.col-lg-4.order-md-2.order-lg-2:nth-child(2)
+ionos.fr###content > div.psa-container.bg-g1:nth-child(9)
+
+! Infomaniak
+infomaniak.com###header > div.header:last-child > div.header-content:last-child > nav.user-nav.desktop-only:last-child > ul.user-nav__menu:last-child > li.user-nav__item.user-nav__item--crisis:first-child
+infomaniak.com###home-slideshow-discounts > div.owl-carousel.basic-slideshow.home-slideshow-discounts.owl-loaded > div.owl-stage-outer:first-child > div.owl-stage > div.owl-item.active:last-child
+infomaniak.com###header > div.header:last-child > nav.top-nav:first-child > ul.top-nav__menu.clearfix > li.top-nav__item:nth-child(6) > a.top-nav__link > span.top-nav__jobs
