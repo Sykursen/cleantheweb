@@ -1,0 +1,94 @@
+! E-Shopping
+! Fnac & Darty
+secure.fnac.com###WLbanner_1490879746
+secure.fnac.com###WLS_modal_1490879746
+secure.fnac.com###bannerPadding_1508329116
+secure.fnac.com##.WLS_gtmBannerWrapper
+secure.fnac.com##.f-OTY-Block-cup-cont
+secure.fnac.com##.f-OTY-Block-cup-mentions
+secure.fnac.com##.f-OTY-TitlePub
+fnac.com##div.non-legacy:nth-child(5) > header.Header.Header--new.js-Header:first-child > div.Header__main.js-headerSearchView:last-child > div.Header__tabs-wrapper:last-child > div.Header__tabs.js-HeaderTabs > div.Header__tabs-specific-wrapper:last-child > div.Header__tabs-item.Header__tabs-item--account.js-HeaderTabAccount:nth-child(2) > a.Header__tabs-link.Header__tabs-link--account > div.Header__tabs-title:last-child > span.Header__tabs-secondline:last-child
+darty.com###f_middle_ctn_bot
+darty.com###f_bottom_content
+darty.com###f_bottom
+
+! Cdiscount
+cdiscount.com###pushBloc > div.pushIcon.jsPushIcon:first-child
+cdiscount.com###paContent2 > div.mgt1em.center.clearBoth:nth-child(2) > div.legalAlcoolMentions:last-child
+cdiscount.com###paContent2 > div.mgt1em.center.clearBoth:nth-child(2) > table.disclaimer:nth-child(3) > tbody > tr
+cdiscount.com###footer > div.ftMention:first-child
+cdiscount.com###asyncFooter > div.ftZnRs:nth-child(2)
+cdiscount.com###asyncFooter > div.ftZn3:last-child
+cdiscount.com###hLayers > div.hCdav:first-child
+cdiscount.com###paContent > ul.imgList1:first-child > li > a
+
+! Aliexpress
+fr.aliexpress.com##.multi-sidebar-tab
+
+!Banggood
+fr.banggood.com###aside > div.aside-bar:first-child > ul.aside-options:first-child
+fr.banggood.com###main > div.main-wrap:last-child > div.main-mt.cf:first-child > div.main-mt-right:last-child
+fr.banggood.com###main > div.main-wrap:last-child > div.main-body:last-child > section.main-body-sellingPoint:last-child
+fr.banggood.com###main > div.main-wrap:last-child > div.main-body:last-child > section.main-body-keyword:nth-child(8)
+fr.banggood.com###footer > div.footer-main > div.footer-about.wrap:first-child > div.column.column3:last-child
+fr.banggood.com###footer > div.footer-main > div.footer-about.wrap:first-child > div.column.column1:first-child > dl:last-child
+fr.banggood.com###footer > div.footer-main > div.footer-authitem.wrap:last-child
+fr.banggood.com###footer > div.footer-main > div.footer-about.wrap:first-child > div.column.column2:nth-child(2) > dl:last-child
+fr.banggood.com###header > div.header-main:nth-child(2) > div.header-main-wrap > div.header-mid.hotfix:last-child > dl.header-search-words:nth-child(2)
+
+! Press & Blogs
+! https://techcrunch.com
+techcrunch.com##.newsletter-signup-block
+
+! Press Citron
+presse-citron.net###mvp-side-wrap
+presse-citron.net###mvp_home_bottom_widget-2 > div.mvp-main-box
+presse-citron.net###mvp-content-wrap > div.mvp-post-soc-out.right.relative > div.mvp-post-soc-wrap.left.relative:first-child > ul.mvp-post-soc-list.left.relative
+
+! Lemonde
+lemonde.fr###Header > header.Header > div.wrapper > div.right:last-child > div.Header__actions.Header__actions--desktop.old__header-actions-right > a.btn.btn--premium:last-child
+lemonde.fr##section.paywall:nth-child(5) > section.paywall__container > section.services.services--generic.js-services:last-child
+
+! Reuters
+fr.reuters.com###__next > div > div.TwoColumnsLayout-footer-ErFTG:nth-child(5) > footer.Footer-container-2rD-1 > div.Footer-inner-3zvCM > div.SocialTools__container___3rfoZ:nth-child(2)
+
+! Korben
+korben.info##div.app-container:nth-child(3) > section.edito:nth-child(2)
+korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > a.widget-action.widget-sign-up.sidebar-app-aside:nth-child(3)
+korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > section.widget_text.widget_custom_html:nth-child(4) > div.textwidget.custom-html-widget > div
+korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > section.widget-dtc.show-for-large:nth-child(7)
+korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > a.widget-action.widget-sign-up.sidebar-app-aside-single:nth-child(3)
+korben.info##div.app-container:nth-child(3) > aside.app-aside:last-child > section.widget-dtc.show-for-large:nth-child(8)
+korben.info##footer.app-footer:nth-child(6) > div.app-footer-container:first-child
+
+! MSN News
+msn.com###filmstripouter > section.filmstrip.light > div.scrollouter > div.scrollregion:nth-child(2) > ul
+msn.com###prefooter > a.floatingfeedback.show
+msn.com###foot > footer.ab.c2 > ul.app-badges:nth-child(3)
+
+! Social Networks
+! Reddit
+reddit.com###SHORTCUT_FOCUSABLE_DIV > div:nth-child(4) > div._1nxEQl5D2Bx2jxDILRHemb > div > div.qYj03fU5CXf5t2Fc5iSvg.ListingLayout-outerContainer > div._3ozFtOe6WpJEMUtxDOIvtU:last-child > div._1vyLCp-v-tE5QvZovwrASa:last-child > div._1OVBBWLtHoSPfGCRaPzpTf._3nSp9cdBpqL13CqjdMr2L_:first-child > div._3VqiDbufgl9_EiV_tk9L6u:first-child
+reddit.com###SHORTCUT_FOCUSABLE_DIV > div:nth-child(4) > div._1nxEQl5D2Bx2jxDILRHemb > div > div.qYj03fU5CXf5t2Fc5iSvg.ListingLayout-outerContainer > div._3ozFtOe6WpJEMUtxDOIvtU:last-child > div._1vyLCp-v-tE5QvZovwrASa:last-child > div._1BFbVxT49QnrAN3fqGZ1z8._1tvThPWQpORoc2taKebHxs:last-child > div._1FUNcfOeszr8eruqLxCMcR._10wb7d3rGvj56Gcs4IQWL5 > div._2vEf-C2keJaBMY9qk_BxVn:nth-child(3) > div._1G4yU68P50vRZ4USXfaceV._2QeqBqfT5UbHBoViZUt-wX
+reddit.com###COIN_PURCHASE_DROPDOWN_ID
+reddit.com##div:last-child > div._2uYY-KeuYHKiwl-9aF0UiL._1HSQGYlfPWzs40LP4_oFi5 > a._1YWXCINvcuU7nk0ED-bta8:nth-child(9)
+
+! Discord
+discord.com##.colorDefault-22HBa0.notice-3bPHh-
+
+! Vidéos services
+! Twitch
+www.twitch.tv##.tw-relative.prime-offers > .tw-relative.tw-inline-block .tw-inline-flex .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-core-button.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center
+
+! Youtube
+youtube.com###dialog
+youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(6)
+youtube.com###sections > ytd-guide-signin-promo-renderer.style-scope.ytd-guide-renderer:nth-child(3)
+
+! Others services
+! Qwant
+qwant.com###c_12 > div.home__snippet__extension
+qwant.com###a_67
+
+! Flaticon
+@@||img-sharesprites.flaticon.com^$image,domain=www.flaticon.com
