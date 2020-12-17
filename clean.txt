@@ -164,9 +164,17 @@ leparisien.fr###nav > nav.navigation_masthead.absolute.border.bottom.light.grid.
 leparisien.fr###\30 fcvEBwhbrC
 leparisien.fr###nav > nav.homepage.navigation_masthead.absolute.border.bottom.light.grid.width_full.padding_vertical_ten:first-child > div.navbar-right-content.horizontal-list:last-child > ul.pull_right.align_items_center > li.sabonner-item.hidden_mobile:nth-child(5)
 
+! Le Figaro
+lefigaro.fr###fh > div.fh-wrapper:first-child > div.fh-middle:nth-child(2) > div.fh-container.fh-container--center.fh-container--logo > span.fh-spacer:last-child
+
 ! La dépêche
 ladepeche.fr##header.navbar:nth-child(5) > nav.navbar-top:nth-child(2) > ul.navbar-top__nav:last-child > li.navbar-top__nav-item:last-child
 ladepeche.fr##header.navbar:nth-child(5) > nav.navbar-top:nth-child(2) > div.aside-weather.aside-weather--small.hide-on-med-and-down:nth-child(3)
+
+! La presse
+lapresse.ca###mainHeader > nav.navigation.mainNav:first-child > div.mainNav__header:first-child > div.mainNav__header__item:last-child
+lapresse.ca###mainHeader > nav.navigation.mainNav:first-child > div.mainNav__header:first-child > div.mainNav__header__item:nth-child(2)
+lapresse.ca##div.main:nth-child(6) > div.mainContent:last-child > aside.col.mainContent__related:nth-child(2) > div.newsletterRegisterBox.newsletterRegisterBox--small:nth-child(4)
 
 ! Les Echos
 lesechos.fr###app > header.x3dh3s-2.RJiBW:first-child > div.sc-AxjAm.x3dh3s-0.dbAokX > div.x3dh3s-1.jdbsKO:last-child > div.sc-AxjAm.sc-1qovi9j-5.lpgHMg:first-child > div.sc-AxjAm.sc-1qovi9j-0.giTXuT:last-child > a.sc-14kwckt-15.sc-5udzxv-0.bZnVfi.sc-1qovi9j-2.yhsna:last-child
@@ -247,7 +255,14 @@ futura-sciences.com##header.site-header.ng-scope:nth-child(2) > section.spreadkn
 
 ! Toms Hardware
 tomshardware.fr###footer > div.container > div.footer__holder > div.footer__col:first-child > div.footer__bloc:first-child
-tomshardware.fr###mailpoet_form-2
+tomshardware.fr###mailpoet_form-2^
+
+! Cowcotland
+cowcotland.com###adblocker
+cowcotland.com###online
+cowcotland.com###msg
+cowcotland.com###nav_up
+cowcotland.com###navigation > div.nav-menus-wrapper:nth-child(4) > ul.nav-menu.nav-menu-social.custom.align-to-right:nth-child(2) > li:nth-child(3)
 
 ! OMGUbuntu
 omgubuntu.co.uk###menu-v4-social
@@ -255,6 +270,7 @@ omgubuntu.co.uk###menu-v4-social
 ! Zataz
 zataz.com###text-10
 zataz.com###custom_html-7
+zataz.com###post-9 > div.page-wrapper.normal-sidebar.single-page.both-sidebar > div.row.gdl-page-row-wrapper:first-child > div.gdl-page-left.mb0.page-left-both-sidebar:first-child > div.row > div.three.columns.mb0.gdl-left-sidebar:nth-child(2)
 
 ! Science et avenir
 sciencesetavenir.fr##header.header-main:nth-child(2) > menu.header-top:first-child > div.in > div.h-connect:nth-child(4) > a.sm.abo.at-link:last-child
@@ -263,7 +279,7 @@ sciencesetavenir.fr##div.container.rbrq-hightech-a-hover:nth-child(7) > main.con
 sciencesetavenir.fr##header.header-sticky.header-shadow.rbrq-home-bg.rbrq-hightech-bg:nth-child(4) > nav.main-nav > ul.menu > li.dropdown > ul.dropdown-menu > li.abo:nth-child(15)
 sciencesetavenir.fr##div.container.rbrq-hightech-a-hover:nth-child(7) > div.container-in.container-in-border-top.container-in-border-top-sml.container-pre-footer:last-child
 
-!It-Connect
+! It-Connect
 it-connect.fr###header-text-nav-container > div.news-bar:first-child
 it-connect.fr###text-50
 it-connect.fr###colophon > div.footer-socket-wrapper.clearfix:last-child > div.inner-wrap > div.footer-socket-area > div.footer-socket-right-section:first-child
@@ -288,6 +304,8 @@ blog.cloudflare.com##div.site-wrapper:first-child > footer.pt4.pb4.pl1.pr1.main-
 ! Blog OVH
 ovh.com###archives-2
 ovh.com###tag_cloud-2
+ovhcloud.com###newHelpbox-btn
+ovhcloud.com###footer > div.wrapper:first-child > div.preFoot:nth-child(2) > div.mainContainer > div.half25.Fleft:nth-child(4)
 
 ! L1fo
 l1fo.tech###sib_subscribe_form-2
@@ -330,6 +348,11 @@ republicain-lorrain.fr###abo
 republicain-lorrain.fr###wrapper > section.section.S1:nth-child(4) > div.constrain > div.col_sticky:last-child > div:last-child
 republicain-lorrain.fr###liseuse
 republicain-lorrain.fr###wrapper > section.section.S_main:nth-child(2) > div.constrain:nth-child(3) > article > div.col_sticky.noPrint:last-child
+
+! Le soir
+lesoir.be###block_marketing_sites_topright-sidebar
+lesoir.be###gr-login > a.gr-user-register:last-child
+lesoir.be###gr-navbar-header > div.panel-pane.pane-block.pane-lsblocks-lsblocks-meteo-bourse-trafic:nth-child(3)
 
 ! France Soir
 francesoir.fr###block-block-50
