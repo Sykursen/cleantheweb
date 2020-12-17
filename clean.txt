@@ -430,7 +430,6 @@ deezer.com###page_sidebar > div.sidebar-header:first-child > div.conversion-bann
 ! Youtube
 youtube.com###dialog
 youtube.com###links-holder
-youtube.com###chat
 youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(6)
 youtube.com###sections > ytd-guide-signin-promo-renderer.style-scope.ytd-guide-renderer:nth-child(3)
 
