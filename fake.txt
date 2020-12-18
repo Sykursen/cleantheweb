@@ -8,9 +8,11 @@
 ##[href^="https://igg-games.com/"]
 ##[href^="https://igg-games.cc/"]
 ##[href^="https://iigggames.com/"]
-
 ##[href^="https://www.game-repack.site/"]
 ##[href^="https://www.skidrowreloaded.com/"]
 ##[href^="https://cpyskidrow.com/"]
 ##[href^="https://www.skidrowcodex.net/"]
 ##[href^="https://cpygames.com/"]
+##[href^="https://oceanofgames.com/"]
+##[href^="https://oceansofgamess.com/"]
+##[href^="http://oceanofgamese.com/"]
