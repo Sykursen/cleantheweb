@@ -1,0 +1,16 @@
+! Fake list of malwares domains
+! Mostly warez content websites
+
+! Gaming
+##[href^="http://fitgirl-repacks.website/"]
+##[href^="https://fitgirlrepacks.co/"]
+##[href^="https://fitgirl-repacks.site/"]
+##[href^="https://igg-games.com/"]
+##[href^="https://igg-games.cc/"]
+##[href^="https://iigggames.com/"]
+
+##[href^="https://www.game-repack.site/"]
+##[href^="https://www.skidrowreloaded.com/"]
+##[href^="https://cpyskidrow.com/"]
+##[href^="https://www.skidrowcodex.net/"]
+##[href^="https://cpygames.com/"]
